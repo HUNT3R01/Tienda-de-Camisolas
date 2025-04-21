@@ -17,4 +17,9 @@ que no utilizamos como style.css
 	3. Configurar variables de entorno
 	4. Iniciar la Aplicacion
 	5. Configurar Firebase pero es opcional
-	6. Analizar la estructura del proyecto 
+	6. Analizar la estructura del proyecto
+
+3) Video de Demostracion
+	https://github.com/user-attachments/assets/152bdbe1-67b6-4d62-8a9f-331da94b1344
+
+
